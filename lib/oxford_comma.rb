@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  array = array.new
-  array.join(",")
+  array = ["Harry Potter", "wand", "Dumbledore"]
+  ["Harry Potter", "wand", "Dumbledore"].join
 end
